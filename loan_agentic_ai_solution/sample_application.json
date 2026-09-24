@@ -1,0 +1,13 @@
+{
+  "applicant_id": "APP-1001",
+  "age": 35,
+  "annual_income": 1200000,
+  "employment_type": "SALARIED",
+  "employment_months": 72,
+  "credit_score": 760,
+  "loan_amount": 2000000,
+  "tenure_months": 120,
+  "monthly_liabilities": 18000,
+  "location": "Mumbai",
+  "application_timestamp": "2026-09-23T19:30:00+05:30"
+}

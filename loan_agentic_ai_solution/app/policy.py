@@ -1,0 +1,9 @@
+POLICY_VERSION = "DEMO-1.0"
+
+# Illustrative thresholds only. Replace through an approved policy process.
+MIN_CREDIT_SCORE = 580
+REVIEW_CREDIT_SCORE = 680
+MAX_DTI_REJECT = 0.65
+MAX_DTI_REVIEW = 0.45
+MAX_LOAN_TO_ANNUAL_INCOME_REVIEW = 4.0
+MIN_EMPLOYMENT_MONTHS_REVIEW = 12
